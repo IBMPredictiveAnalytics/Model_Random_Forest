@@ -35,6 +35,7 @@ Documentation and samples
 ----
 - Find a PDF with the documentation of this extension in the [Documentation][5] directory
 - There is a sample available in the [example][6] directory
+- [Video-tutorial][20]
 
 ---
 License
@@ -55,3 +56,4 @@ Contributors
 [4]:http://cran.r-project.org/web/packages/party/
 [5]:https://github.com/IBMPredictiveAnalytics/ModelRandomForest/blob/master/Documentation/RandomForest-SPSSModelerExtension.pdf
 [6]:https://github.com/IBMPredictiveAnalytics/ModelRandomForest/tree/master/Example
+[20]:https://www.youtube.com/watch?v=5xXtlusawHo
