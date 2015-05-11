@@ -18,7 +18,7 @@ More information here: [IBM Predictive Extensions][2]
 
 
 ---
-Installation intructions
+Installation instructions
 ----
 1. Download the extension: [Download][3] 
 2. Close IBM SPSS Modeler. Save the .cfe file in the CDB directory, located by default on Windows in *"C:\ProgramData\IBM\SPSS\Modeler\16\CDB"* or under your IBM SPSS Modeler installation directory.
