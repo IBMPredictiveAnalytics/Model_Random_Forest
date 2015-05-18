@@ -22,6 +22,8 @@ Installation instructions
 ----
 1. Download the extension: [Download][3] 
 2. Close IBM SPSS Modeler. Save the .cfe file in the CDB directory, located by default on Windows in *"C:\ProgramData\IBM\SPSS\Modeler\16\CDB"* or under your IBM SPSS Modeler installation directory.
+The ProgramData folder is a hidden system folder by default, either you need to turn off "Hidden System Folders" in Folder Options or put the direct path in the toolbar in order to navigate to that folder. 
+Another alternative is to place a CFE in the "C:\Program Files\IBM\SPSS\Modeler\17\ext\lib" folder. Modeler will recognize the extension if it is placed here as well. However, you need to have Admin rights to copy a file to that location.
 3. Restart IBM SPSS Modeler, the node will now appear in the Model palette.
 
 ---
