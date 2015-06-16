@@ -1,0 +1,8 @@
+{
+ "type": [ "Extension" ],
+"provider": [ "IBM" ],
+"software": [ "SPSS Modeler" ],
+"language": [ " R" ],
+"category": [ "Analysis" ],
+"promotion": [ "No" ] 
+}
