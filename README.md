@@ -10,7 +10,7 @@ Node for classification and regression based on a forest of trees using random i
 ---
 Requirements
 ----
-- IBM SPSS Modeler v16.0 or later
+- IBM SPSS Modeler v16 or later
 - IBM SPSS Modeler 'R Essentials'
 - R 2.15.x or R 3.1
 
